@@ -2,7 +2,7 @@
 <br>
 Updated portfolio to show how far I have come since the beginning of CWRU's Coding Bootcamp.
 <br>
-Preview: ![updated_portfolio/photos](job_search.png)
+Preview: ![Allison_Barnard_Portfolio/updated_portfolio/photos](job_search.png)
 <br>
 Added Project 1 - the last project done to display group work, JS, HTML, JQUERY, AJAX, and CSS. 
 <br>
