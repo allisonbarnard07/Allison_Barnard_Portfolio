@@ -2,6 +2,7 @@
 <br>
 Updated portfolio to show how far I have come since the beginning of CWRU's Coding Bootcamp.
 <br>
+Preview: ![photos](job_search.png)
 Added Project 1 - the last project done to display group work, JS, HTML, JQUERY, AJAX, and CSS. 
 <br>
 Added password generator to display JS skills and responsiveness.
