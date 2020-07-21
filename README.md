@@ -13,3 +13,7 @@ Added password generator to display JS skills and responsiveness.
 Preview: ![Allison_Barnard_Portfolio/updated_portfolio/photos](website_cleanup.PNG)
 <br>
 Added first homework of a website clean up (this was before I knew Media Queries) to show how far I have come in responsiveness for apps. 
+<br>
+Github: https://github.com/allisonbarnard07/Allison_Barnard_Portfolio
+<br>
+Site: 
