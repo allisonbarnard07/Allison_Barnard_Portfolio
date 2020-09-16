@@ -19,9 +19,20 @@
 }
 
 hr {
-    background-color: gray
+    background-color: gray;
+}
+
+body {
+    background-color: rgb(148, 221, 221);
 }
 
 h1 {
     margin-left: 15px;
+}
+
+.profile-button {
+    float: left;
+    padding-right: 1px;
+    padding-left: 1px;
+
 }
