@@ -10,9 +10,9 @@ A portfolio of applications built by Allison Barnard. This application also incl
 
 ### __Image__
 Homepage:
-![Portfolio_image](Portfolio.png)
-![Portfolio_image](Portfolio2.png)
-![Portfolio_image](Portfolio3.png)
+![Portfolio_image](Portfolio.PNG)
+![Portfolio_image](Portfolio2.PNG)
+![Portfolio_image](Portfolio3.PNG)
 
 ### __Questions__
 - For further information or questions please contact * [Allison Barnard](https://github.com/allisonbarnard07)
